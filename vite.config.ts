@@ -4,6 +4,7 @@ import path from 'node:path';
 
 export default defineConfig({
   plugins: [react()],
+    base: '/SGT_WEB_PAGE/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src'),

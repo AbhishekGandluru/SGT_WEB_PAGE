@@ -1,0 +1,158 @@
+{
+  "business": {
+    "tagline": "Reliable cabs from Tirupati & Nellore",
+    "hours": "Available 24×7 for bookings"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "routes": "Routes",
+    "vehicles": "Vehicles",
+    "quote": "Get Quote",
+    "about": "About",
+    "contact": "Contact",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Travel Beyond Boundaries",
+    "subtitle": "with Comfort & Safety",
+    "description": "Reliable cab services from Tirupati and Nellore for local trips, outstation travel, airport drops, and temple darshan.",
+    "getQuote": "Get a Quick Quote",
+    "whatsapp": "WhatsApp Us",
+    "call": "Call Now"
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Simple, safe travel options for every journey.",
+    "local": {
+      "title": "Local Trips",
+      "description": "City rides within Tirupati and Nellore for shopping, meetings, and family visits."
+    },
+    "outstation": {
+      "title": "Outstation Trips",
+      "description": "Comfortable one-way and round trips to major cities across South India."
+    },
+    "airport": {
+      "title": "Airport Transfers",
+      "description": "On-time pickups and drops for Tirupati and nearby airports."
+    },
+    "temple": {
+      "title": "Temple & Pilgrimage",
+      "description": "Hassle-free darshan travel with patient, experienced drivers."
+    }
+  },
+  "routes": {
+    "title": "Popular Routes",
+    "description": "Frequently booked corridors from Tirupati and Nellore.",
+    "fromTo": "{{from}} → {{to}}",
+    "enquire": "Enquire"
+  },
+  "vehicles": {
+    "title": "Our Vehicles",
+    "description": "Well-maintained cars chosen for comfort on long and local rides.",
+    "seating": "Seating",
+    "model": "Model",
+    "specs": "Specifications",
+    "book": "Book this car",
+    "noImage": "Vehicle photo coming soon",
+    "dzire": {
+      "name": "Maruti Suzuki Dzire",
+      "spec": {
+        "ac": "Full AC cabin",
+        "luggage": "Boot space for 2–3 bags",
+        "fuel": "Petrol / CNG ready"
+      },
+      "highlight": {
+        "comfort": "Smooth highway ride",
+        "ideal": "Ideal for 1–4 passengers"
+      }
+    }
+  },
+  "quote": {
+    "title": "Get a Quick Quote",
+    "description": "Share a few trip details and we will reply on WhatsApp with an estimated fare.",
+    "tripType": "Trip type",
+    "tripTypeLocal": "Local",
+    "tripTypeOutstation": "Outstation",
+    "tripTypeAirport": "Airport",
+    "tripTypeTemple": "Temple / Pilgrimage",
+    "from": "From",
+    "to": "To",
+    "fromPlaceholder": "Pickup city or area",
+    "toPlaceholder": "Drop city or area",
+    "travelDate": "Travel date",
+    "returnDate": "Return date (optional)",
+    "passengers": "Passengers",
+    "passengersPlaceholder": "Number of passengers",
+    "name": "Your name",
+    "namePlaceholder": "Full name",
+    "phone": "Phone number",
+    "phonePlaceholder": "10-digit mobile number",
+    "notes": "Notes (optional)",
+    "notesPlaceholder": "Flight time, temple preference, luggage…",
+    "submit": "Send on WhatsApp",
+    "callInstead": "Prefer to call?",
+    "required": "This field is required",
+    "invalidPhone": "Enter a valid 10-digit Indian mobile number",
+    "success": "Opening WhatsApp with your enquiry…",
+    "error": "Please fix the highlighted fields and try again."
+  },
+  "whatsapp": {
+    "message": "Hello {{businessName}},\n\nI would like to enquire about a cab.\n\nTrip Type: {{tripType}}\nFrom: {{from}}\nTo: {{to}}\nTravel Date: {{date}}\nReturn Date: {{returnDate}}\nPassengers: {{passengers}}\nName: {{name}}\nPhone: {{phone}}\nNotes: {{notes}}\n\nPlease provide an estimated fare.",
+    "na": "N/A",
+    "quickHello": "Hello {{businessName}}, I would like to enquire about a cab booking."
+  },
+  "testimonials": {
+    "title": "What Travellers Say",
+    "description": "Trusted by families and business travellers across Andhra Pradesh.",
+    "items": {
+      "ravi": {
+        "quote": "Punctual pickup for our Tirupati darshan. The driver was polite and the car was clean.",
+        "name": "Ravi Kumar",
+        "place": "Chennai"
+      },
+      "lakshmi": {
+        "quote": "Booked Nellore to Bangalore at short notice. Fair price and a smooth ride.",
+        "name": "Lakshmi Devi",
+        "place": "Nellore"
+      },
+      "arun": {
+        "quote": "Airport drop was on time. Easy WhatsApp booking — highly recommend.",
+        "name": "Arun Reddy",
+        "place": "Tirupati"
+      }
+    }
+  },
+  "about": {
+    "title": "About Sri Gayathri Travels",
+    "description": "We are a local travel partner based in Tirupati and Nellore, focused on safe, comfortable cab journeys for families, pilgrims, and business travellers.",
+    "point1": "Experienced local drivers",
+    "point2": "Transparent fare estimates",
+    "point3": "Clean, well-maintained cars",
+    "point4": "Quick response on call & WhatsApp"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Reach us anytime for bookings and trip planning.",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "address": "Service areas",
+    "hours": "Hours",
+    "googleBusiness": "View on Google"
+  },
+  "footer": {
+    "rights": "© {{year}} {{businessName}}. All rights reserved.",
+    "tagline": "Comfortable travel across Andhra Pradesh and beyond."
+  },
+  "sticky": {
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "quote": "Quote"
+  },
+  "a11y": {
+    "skipToContent": "Skip to content"
+  }
+}
